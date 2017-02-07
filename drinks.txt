@@ -1,2 +1,5 @@
 drink drink drink
 water
+beer
+fruit juice
+horchata
