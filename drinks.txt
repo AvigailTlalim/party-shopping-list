@@ -1,2 +1,6 @@
 drink drink drink
+<<<<<<< HEAD
 cherry juide
+=======
+water
+>>>>>>> origin/master
