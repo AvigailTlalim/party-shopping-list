@@ -1,6 +1,5 @@
 food food food
-<<<<<<< HEAD
 biscuits
-=======
 apple
->>>>>>> origin/master
+
+
